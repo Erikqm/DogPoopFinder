@@ -1,0 +1,9 @@
+Configurate USB as ethernet interface
+Connect on my security camera through rtsp
+Run some simple model (coco based)
+Try to send notifications for a telegram channel if the camera spot someone
+Anotate the images from my real problem (lights on and lights off)
+Train at least to diferent models to compare the accuracy
+Configurate ethernet interface
+Set up my rules, when detecs a dog, when detects a poop, when detects a dog near a poop
+Integrate 
